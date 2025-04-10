@@ -56,7 +56,7 @@ The project workflow consists of the following steps:
 ## Model Architecture
 The LSTM model architecture consists of multiple stacked LSTM layers with dropout regularization:
 
-![LSTM Architecture](Architecture.jpg)
+![LSTM Architecture](Architecture.png)
 
 The architecture features:
 - Multiple stacked LSTM layers with 50 units each
